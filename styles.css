@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;;
+}
+#div_Principal {
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    width: 100%; 
+    overflow: hidden; 
+}
+
+#btn_SubirArchivo {
+    width: 80%; 
+    height: 5rem; 
+    background-color: #0dc40d; 
+    border-radius: 12px; 
+    color: white; 
+    font-size: 3rem; 
+    text-align: center; 
+}
